@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="264px" height="78px" viewBox="0 0 264 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <title>wp-sync-db-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="wp-sync-db-logo" sketch:type="MSLayerGroup" transform="translate(6.000000, 2.000000)">
+            <g id="Page-1">
+                <g id="wp-sync-db-logo">
+                    <g id="Page-1">
+                        <g id="WP-Sync-DB-Logo">
+                            <g id="WP-Sync-DB" transform="translate(22.000000, 13.000000)" font-size="42" font-family="Alegreya Sans" fill="#000000" sketch:type="MSTextLayer" font-weight="normal">
+                                <g id="Group">
+                                    <text id="WP-Sync-DB">
+                                        <tspan x="0" y="38">WP Sync DB</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <path d="M2.5,3 C-18.3333333,3 97.0361328,3 127.5,3 L252.5,3" id="arrow-right" stroke="#4990E2" stroke-width="2.94117647" fill="#4990E2" sketch:type="MSShapeGroup"></path>
+                            <path d="M252.5,3 C248.721049,1.95 245.481049,1.05 241.701049,0 L241.701049,6 C245.481049,4.95 248.721049,4.05 252.5,3 L252.5,3 L252.5,3 Z" id="arrow-right-decoration-1" stroke="#4990E2" stroke-width="2.94117647" fill="#4990E2" sketch:type="MSShapeGroup"></path>
+                            <path d="M1.5,70 L126.5,70 L251.5,70" id="arrow-left" stroke="#4990E2" stroke-width="2.94117647" fill="#4990E2" sketch:type="MSShapeGroup" transform="translate(126.500000, 70.500000) rotate(180.000000) translate(-126.500000, -70.500000) "></path>
+                            <path d="M10.5,71 C6.72,69.95 3.48,69.05 -0.3,68 L-0.3,74 C3.48,72.95 6.72,72.05 10.5,71 L10.5,71 L10.5,71 Z" id="arrow-left-decoration-1" stroke="#4990E2" stroke-width="2.94117647" fill="#4990E2" sketch:type="MSShapeGroup" transform="translate(5.200000, 71.000000) rotate(180.000000) translate(-5.200000, -71.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

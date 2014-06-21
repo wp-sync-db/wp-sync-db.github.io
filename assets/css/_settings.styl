@@ -1,0 +1,71 @@
+@import 'jeet'
+@import url('http://fonts.googleapis.com/css?family=Alegreya+Sans')
+
+font-stack = 'Alegreya Sans', sans-serif
+font-size = 16
+font-color = #555
+
+navy = #001F3F
+blue = #4A90E2
+aqua = #7FDBFF
+teal = #39CCCC
+olive = #3D9970
+green = #2ECC40
+lime = #01FF70
+yellow = #FFDC00
+orange = #FF851B
+red = #e2504a
+maroon = #85144B
+fuchsia = #F012BE
+purple = #B10DC9
+white = #FFFFFF
+silver = #DDDDDD
+gray = #333
+black = #222222
+
+
+default-color = blue
+
+highlight-color = blue
+
+normalize-css()
+
+*
+  box-sizing border-box
+
+html, body
+  height 100%
+  width 100%
+  font: 14px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif
+  color gray
+
+h1, h2, h3, h4, h5
+  font-family 'Alegreya Sans', sans-serif
+  font-weight 400
+  bold()
+
+a
+  reset-link()
+  color blue
+  transition all .2s ease
+
+  &:hover
+    color black
+    border-bottom 1px solid black
+
+.wrap
+  max-width 900px
+  margin 0 auto
+
+  +below(940px)
+    padding 0 20px
+    width 100%
+
+.gitub-ribbon
+  position absolute
+  top 0
+  right 0
+  border 0
+
+  +below(400px)
+    display none

@@ -1,0 +1,14 @@
+{
+  "name": "wp-sync-db.github.io",
+  "description": "wp-sync-db github page",
+  "dependencies": {
+    "jade": "1.x",
+    "marked": "0.3.x",
+    "stylus": "0.45.x",
+    "coffee-script": "1.7.x",
+    "autoprefixer-stylus": "0.1.x",
+    "axis": "0.2.x",
+    "rupture": "0.1.x",
+    "jeet": "*"
+  }
+}
