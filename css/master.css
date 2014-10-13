@@ -312,3 +312,11 @@ a:hover {
 .footer .copyright {
   margin-left: 1em;
 }
+.footer .copyright img {
+  height: 13px;
+  width: 14px;
+  padding-right: 2px;
+  -webkit-transform: translate(0, 1px);
+      -ms-transform: translate(0, 1px);
+          transform: translate(0, 1px);
+}
