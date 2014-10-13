@@ -1,28 +1,30 @@
 #videos
   ul
-    padding 0
-    margin 0
+    padding: 0
+    margin: 0
 
     li
-      list-style none
+      list-style: none
       span(1/2)
-      height 400px
-      padding 0 10px
-      border-bottom 0
+      height: 400px
+      padding: 0 10px
+      border-bottom: 0
 
       .video-link
-        display none
+        display: none
 
       +below(845px)
         stack()
         center(450px)
 
       +below(440px)
-        height auto
-        border-bottom 1px solid gray
+        height: auto
+        border-bottom: 1px solid gray
 
         iframe
-          display none
+          display: none
 
         .video-link
-          display block
+          display: block
+          &:hover
+            border-bottom: none

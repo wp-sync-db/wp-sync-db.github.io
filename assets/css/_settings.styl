@@ -34,38 +34,38 @@ normalize-css()
   box-sizing border-box
 
 html, body
-  height 100%
-  width 100%
+  height: 100%
+  width: 100%
   font: 14px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif
-  color gray
+  color: gray
 
 h1, h2, h3, h4, h5
-  font-family 'Alegreya Sans', sans-serif
-  font-weight 400
+  font-family: 'Alegreya Sans', sans-serif
+  font-weight: 400
   bold()
 
 a
   reset-link()
-  color blue
-  transition all .2s ease
+  color: blue
+  transition: all .2s ease
 
   &:hover
-    color black
-    border-bottom 1px solid black
+    color: black
+    border-bottom: 1px solid black
 
 .wrap
-  max-width 900px
-  margin 50px auto
+  max-width: 900px
+  margin: 50px auto
 
   +below(940px)
-    padding 0 20px
-    width 100%
+    padding: 0 20px
+    width: 100%
 
 .gitub-ribbon
-  position absolute
-  top 0
-  right 0
-  border 0
+  position: absolute
+  top: 0
+  right: 0
+  border: 0
 
   +below(400px)
-    display none
+    display: none
